@@ -1,0 +1,6 @@
+# Python version: 3.12.3
+
+ultralytics==8.4.50
+opencv-python==4.13.0
+requests==2.33.1
+numpy==2.4.4
